@@ -1,0 +1,1 @@
+# cloud-taller3-openshift
